@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.69550c7e.chunk.css",
+    "main.js": "./static/js/main.2629da0f.chunk.js",
+    "main.js.map": "./static/js/main.2629da0f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.bbd8f27a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.bbd8f27a.js.map",
+    "static/css/2.b0443ea5.chunk.css": "./static/css/2.b0443ea5.chunk.css",
+    "static/js/2.f85f6472.chunk.js": "./static/js/2.f85f6472.chunk.js",
+    "static/js/2.f85f6472.chunk.js.map": "./static/js/2.f85f6472.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.dc9681f54b8b164c663564b30573d3fe.js": "./precache-manifest.dc9681f54b8b164c663564b30573d3fe.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.b0443ea5.chunk.css.map": "./static/css/2.b0443ea5.chunk.css.map",
+    "static/css/main.69550c7e.chunk.css.map": "./static/css/main.69550c7e.chunk.css.map",
+    "static/js/2.f85f6472.chunk.js.LICENSE.txt": "./static/js/2.f85f6472.chunk.js.LICENSE.txt",
+    "static/media/AgroAfrica.png": "./static/media/AgroAfrica.95939c13.png",
+    "static/media/Java.png": "./static/media/Java.2c60421a.png",
+    "static/media/LUCIG3.png": "./static/media/LUCIG3.c235d95a.png",
+    "static/media/ReactJS.png": "./static/media/ReactJS.b9de06ea.png",
+    "static/media/apase.png": "./static/media/apase.5d911157.png",
+    "static/media/Career.css": "./static/media/developer.2f997a87.jpg",
+    "static/media/developers.svg": "./static/media/developers.c718e69b.svg",
+    "static/media/Footer.css": "./static/media/footer.bf17b0ea.svg",
+    "static/media/Services.css": "./static/media/ux.8cbe89e1.jpg",
+    "static/media/Mission.css": "./static/media/mission.de4c6469.svg",
+    "static/media/mobile_development.svg": "./static/media/mobile_development.88556646.svg",
+    "static/media/About.css": "./static/media/office.b3ba8566.png",
+    "static/media/problems.svg": "./static/media/problems.95b2483e.svg",
+    "static/media/team.png": "./static/media/team.c3a94ddc.png",
+    "static/media/Header.css": "./static/media/top.068b1c34.svg",
+    "static/media/ui.svg": "./static/media/ui.831f3735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd8f27a.js",
+    "static/css/2.b0443ea5.chunk.css",
+    "static/js/2.f85f6472.chunk.js",
+    "static/css/main.69550c7e.chunk.css",
+    "static/js/main.2629da0f.chunk.js"
+  ]
+}
